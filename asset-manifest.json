@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.e9ea8fef.js",
-    "static/media/logo-ct.png": "/static/media/logo-ct.6ff5518656c340187a88.png",
+    "main.js": "/static/js/main.5c5a25f2.js",
+    "static/media/polyu.jpg": "/static/media/polyu.f84c8236ec4ea6ca9ef8.jpg",
     "static/media/white-curved.jpeg": "/static/media/white-curved.a5b7db662b0b14ab5534.jpeg",
     "index.html": "/index.html",
-    "main.e9ea8fef.js.map": "/static/js/main.e9ea8fef.js.map"
+    "main.5c5a25f2.js.map": "/static/js/main.5c5a25f2.js.map"
   },
   "entrypoints": [
-    "static/js/main.e9ea8fef.js"
+    "static/js/main.5c5a25f2.js"
   ]
 }
